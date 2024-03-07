@@ -7,6 +7,7 @@ public class launchclass {
 		System.out.println("Created - Instance, Repository, New Item in Jenkins ");
 		System.out.println("linking Eclipse to Github");
 		System.out.println("checking status");
+		System.out.println("checking status");
 	}
 
 }
